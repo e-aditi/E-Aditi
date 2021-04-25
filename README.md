@@ -4,11 +4,9 @@
 
 Education:
 - SASTRA Deemed to be University, Thanjavur
-
-Bachelor of Technology (BTech) Computer Science Engineering (2019 - 2023)
+   - Bachelor of Technology (BTech) Computer Science Engineering (2019 - 2023)
 - Maharishi International Residential School (MIRS)
-
-high school (2017 - 2019)
+   - high school (2017 - 2019)
 
 
 
