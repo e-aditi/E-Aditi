@@ -1,5 +1,5 @@
 ### Hi there! I am Aditi 👋
-- B.Tech Computer Science Engineering student. I enjoy learning new things 😄 - like to learn more about things related to coding, Machine Learning and Artificial Intellegence. I draw too!
+- B.Tech Computer Science Engineering student. I enjoy learning new things 😄 - like to learn more about things related to robotics and Artificial Intellegence. I draw too!
 - And yes, in this github page, I update all the new things I learn, try and experiment.
 
 
