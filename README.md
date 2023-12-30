@@ -13,5 +13,6 @@ Education:
 
 
 
-🌱 Currently working on building skills related to AWS
+🌱 Currently working on building skills related to cloud
 
+<img src="aws-certified-cloud-practitioner.png" width="150" height="150">
